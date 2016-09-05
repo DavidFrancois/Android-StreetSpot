@@ -1,4 +1,4 @@
-package com.example.grandzob.testmeal;
+package com.example.grandzob.StreetSpot;
 
 import android.content.Intent;
 import android.location.Location;

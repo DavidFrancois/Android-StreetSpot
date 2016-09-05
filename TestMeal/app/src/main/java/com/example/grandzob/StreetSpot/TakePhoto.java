@@ -1,4 +1,4 @@
-package com.example.grandzob.testmeal;
+package com.example.grandzob.StreetSpot;
 
 import android.content.Intent;
 import android.net.Uri;
@@ -8,7 +8,6 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
-import android.widget.ImageView;
 import android.widget.Toast;
 
 

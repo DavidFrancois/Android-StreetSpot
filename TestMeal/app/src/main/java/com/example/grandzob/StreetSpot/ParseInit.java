@@ -1,6 +1,4 @@
-package com.example.grandzob.testmeal;
-
-import android.util.AndroidException;
+package com.example.grandzob.StreetSpot;
 
 import com.parse.Parse;
 import com.parse.ParseObject;

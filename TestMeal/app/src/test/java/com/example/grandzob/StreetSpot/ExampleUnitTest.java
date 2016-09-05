@@ -1,4 +1,4 @@
-package com.example.grandzob.testmeal;
+package com.example.grandzob.StreetSpot;
 
 import org.junit.Test;
 
